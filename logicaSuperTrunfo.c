@@ -227,5 +227,5 @@ switch (escolhadojogador)
       printf("\n");
   }
 
-
+ 
  }
